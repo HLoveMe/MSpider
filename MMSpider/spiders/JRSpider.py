@@ -5,7 +5,7 @@ from scrapy.contrib.linkextractors import LinkExtractor
 from MMSpider.items import MM176TypeItem,MM176PersonItem
 from scrapy.loader import ItemLoader
 import re
-from scrapy_redis.spiders import RedisCrawlSpider,RedisSpider
+from scrapy_redis.spiders import RedisCrawlSpider
 
 
 class JrspiderSpider(RedisCrawlSpider):
