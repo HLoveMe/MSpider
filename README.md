@@ -16,7 +16,7 @@
 	```
 		Settting文件中的
 			#这是使用远程Redis服务器
-			REDIS_URL = 'redis://user:4634264015@119.29.16.140:6379' 
+			REDIS_URL = 'redis://user:4634264015@服务器ip:服务器port' 
 			
 			#这是Redis本地服务器 必须安装本地Redis
 			# REDIS_HOST = 'localhost'

@@ -65,7 +65,7 @@ STATS_CLASS ="MMSpider.DataCollection.UserLoginDataCollection"
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'MMSpider.pipelines.MmspiderPipeline': 300,
+   'MMSpider.pipelines.MmspiderPipeline': 300,
     'scrapy_redis.pipelines.RedisPipeline': 302
 }
 

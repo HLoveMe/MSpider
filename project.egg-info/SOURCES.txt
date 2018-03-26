@@ -1,0 +1,15 @@
+README.md
+setup.py
+MMSpider/DataCollection.py
+MMSpider/__init__.py
+MMSpider/items.py
+MMSpider/middlewares.py
+MMSpider/pipelines.py
+MMSpider/settings.py
+MMSpider/spiders/JRSpider.py
+MMSpider/spiders/__init__.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
